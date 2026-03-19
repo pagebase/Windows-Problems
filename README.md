@@ -6,7 +6,7 @@
 # Device Encryption Suspended
 
 ![Device Encryption Suspended](./Media_Files/D1.png)
-## Solution
+## Solution :book:
 
 - **Step 1:** Turn off encryption by following command prompt
 ```c
@@ -20,3 +20,5 @@ manage-bde D: -off
 manage-bde D: -on
 ```
 ![](./Media_Files/D2.png)
+
+---
