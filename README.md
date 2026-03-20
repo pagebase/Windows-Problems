@@ -1,6 +1,7 @@
 # Table of content
 
 - [Device Encryption Suspended](#device-encryption-suspended)
+- [Turn on auto unlock drive](#turn-on-auto-unlock-drive)
 
 ---
 # Device Encryption Suspended
@@ -22,3 +23,5 @@ manage-bde D: -on
 ![](./Media_Files/D2.png)
 
 ---
+
+![D3](./Media_Files/D3.png)
