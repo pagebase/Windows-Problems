@@ -28,7 +28,7 @@ manage-bde D: -on
 
 ![D3](./Media_Files/D3.png)
 ## Solution :book:
-- **Step 1:** Visit [ Microsoft Account ]([Microsoft account | BitLocker recovery keys](https://account.microsoft.com/devices/recoverykey?refd=account.microsoft.com))
+- **Step 1:** Visit [Microsoft Account](https://account.microsoft.com/devices/recoverykey?refd=account.microsoft.com))
 - **Step 2:** Log in your Microsoft account
 - **Step 3:** Copy your **Recovery Key** and double click your **D drive** and paste **Recovery key** to unlock it.
 - **Step 4:** Open **Command Prompt** as **Administrator**
