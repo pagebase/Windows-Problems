@@ -27,7 +27,7 @@ manage-bde D: -on
 # Turn on auto unlock drive
 
 ![D3](./Media_Files/D3.png)
-
+## Solution :book:
 - **Step 1:** Visit [ Microsoft Account ]([Microsoft account | BitLocker recovery keys](https://account.microsoft.com/devices/recoverykey?refd=account.microsoft.com))
 - **Step 2:** Log in your Microsoft account
 - **Step 3:** Copy your **Recovery Key** and double click your **D drive** and paste **Recovery key** to unlock it.
@@ -56,4 +56,4 @@ Key Protectors Added:
       Automatic unlock enabled.
 C:\Windows\System32>
 ```
-You have successfully solved your problem, congratulations! Now this problem will never occurer even if you restart your device everyday.
+You have successfully solved your problem, congratulations! Now this problem will never occur even if you restart your device everyday.
