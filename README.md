@@ -27,3 +27,7 @@ manage-bde D: -on
 # Turn on auto unlock drive
 
 ![D3](./Media_Files/D3.png)
+
+Complete guide by refering following link
+
+https://gemini.google.com/share/1818705782d7
